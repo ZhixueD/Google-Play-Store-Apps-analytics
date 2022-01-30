@@ -2,7 +2,7 @@
 
 In this project, I will do a comprehensive analysis of the Android app market by comparing thousands of apps in the Google Play store. I will use python, pandas, numpy, plotly.
 
-The Images produce in Poject: ( The details see Google_Play_Store_App_Analytics.ipynb file)
+The images produce in Poject: ( The details see Google_Play_Store_App_Analytics.ipynb file)
 
 ![newplot](https://user-images.githubusercontent.com/98153604/151689774-64f903fc-10b1-4dca-8f2a-c37390e5cfd6.png)
 ![newplot (1)](https://user-images.githubusercontent.com/98153604/151689778-b03c84c5-4ecd-42a4-bf02-86e11cca969c.png)
